@@ -11,7 +11,7 @@ This is lot of helpful.
 apt update
 apt upgrade -y
 pkg install python -y
-git clone https://github.com/T4Termux/Duck_Droid.git
+git clone https://github.com/Farz7/Duck_Droid.git
 
 ```
 
